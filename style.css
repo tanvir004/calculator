@@ -5,9 +5,9 @@ form{
     padding: 30px;
     box-shadow: 5px 5px 10px gray;
 }
-hr{
+/* hr{
     margin: 15px 0;
-}
+} */
 input[type="text"]{
     font-family: 'Orbitron', sans-serif;
     width: 100%;
